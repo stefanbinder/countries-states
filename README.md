@@ -1,7 +1,7 @@
 # Full Country and State list of our planet
 
 The repository contains a JSON file with a __complete list of the 250 countries__ of the world. Included with all states of every single country.
-The format of the full list is following:
+The format of the full list is like following:
 
 ```
 [
