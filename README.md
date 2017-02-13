@@ -3,6 +3,7 @@
 The repository contains a JSON file with a __complete list of the 250 countries__ of the world. Included with all states of every single country.
 The format of the full list is following:
 
+```
 [
 	{
 		"code2": "AT",
@@ -22,6 +23,7 @@ The format of the full list is following:
 	},
 	...
 ]
+```
 
 A country-element consists of:
 
@@ -30,35 +32,35 @@ A country-element consists of:
 * name - the name of the country
 * capital - the name of the capital
 * region - the region/continent of the country, possible values: 
-⋅⋅* Asia
-⋅⋅* Europe
-⋅⋅* Africa
-⋅⋅* Oceania
-⋅⋅* Americas
-⋅⋅* Polar 
+1. Asia
+1. Europe
+1. Africa
+1. Oceania
+1. Americas
+1. Polar 
 * subregion - the subregion of the country inside the region, possible values: 
-⋅⋅* Southern Asia
-⋅⋅* Northern Europe
-⋅⋅* Southern Europe
-⋅⋅* Northern Africa
-⋅⋅* Polynesia
-⋅⋅* Middle Africa
-⋅⋅* Caribbean
-⋅⋅* South America
-⋅⋅* Western Asia
-⋅⋅* Australia and New Zealand
-⋅⋅* Western Europe
-⋅⋅* Eastern Europe
-⋅⋅* Central America
-⋅⋅* Western Africa
-⋅⋅* Northern America
-⋅⋅* Southern Africa
-⋅⋅* Eastern Africa
-⋅⋅* South-Eastern Asia
-⋅⋅* Eastern Asia
-⋅⋅* Melanesia
-⋅⋅* Micronesia
-⋅⋅* Central Asia
+1. Southern Asia
+1. Northern Europe
+1. Southern Europe
+1. Northern Africa
+1. Polynesia
+1. Middle Africa
+1. Caribbean
+1. South America
+1. Western Asia
+1. Australia and New Zealand
+1. Western Europe
+1. Eastern Europe
+1. Central America
+1. Western Africa
+1. Northern America
+1. Southern Africa
+1. Eastern Africa
+1. South-Eastern Asia
+1. Eastern Asia
+1. Melanesia
+1. Micronesia
+1. Central Asia
 * states
 
 A state-element consists of:
